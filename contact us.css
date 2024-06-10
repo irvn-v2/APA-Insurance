@@ -1,0 +1,26 @@
+fieldset{
+    border: 2px solid blue;
+    font-family: Chandas, serif;
+}
+button{
+    color: white;
+    background-color: blue;
+    width: 15%;
+    height: 40px;
+}
+form{
+    width: 70%;
+    margin: auto;
+}
+input[type=text],input[type=email],input[type=url]{
+    width: 100%;
+    height: 30px;
+}
+select{
+    width: 30%;
+    height: 30px;
+    background-color: indianred;
+    border-radius: 10px;
+}
+
+
